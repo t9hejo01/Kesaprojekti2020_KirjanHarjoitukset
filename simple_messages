@@ -1,5 +1,0 @@
-message = "Paivaa Joona"
-print(message)
-
-message = "Koodaus on kivaa"
-print(message)

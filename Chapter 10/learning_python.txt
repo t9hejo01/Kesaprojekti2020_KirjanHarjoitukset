@@ -1,0 +1,3 @@
+In C++ you can develope games.
+In C++ you can visualize data.
+In C++ you can create dictionaries.
